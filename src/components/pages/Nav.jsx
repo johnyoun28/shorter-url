@@ -5,28 +5,26 @@ const Nav = () => {
     <div>
       <nav>
         <div>
-          Features Pricing Resources
           <ul>
             <li>
-              <a href="" Features></a>
+              <a href="">Features</a>
             </li>
             <li>
-              <a href="" Pricing></a>
+              <a href="">Pricing</a>
             </li>
             <li>
-              <a href="" Resources></a>
+              <a href=""> Resources</a>
             </li>
           </ul>
         </div>
 
         <div>
-          Login Sign Up
           <ul>
             <li>
-              <a href="">Login></a>
+              <a href="">Login</a>
             </li>
             <li>
-              <a href="">Sign Up></a>
+              <a href="">Sign Up</a>
             </li>
           </ul>
         </div>

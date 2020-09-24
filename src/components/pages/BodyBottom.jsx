@@ -4,15 +4,6 @@ const BodyBottom = () => {
   return (
     <div>
       <div>
-        <h2>Advanced Statistics</h2>
-
-        <p>
-          Track how your links are performing across the web with our advanced
-          statistics dashboard.
-        </p>
-      </div>
-
-      <div>
         <h3>Brand Recognition</h3>
 
         <p>
@@ -37,6 +28,12 @@ const BodyBottom = () => {
           Improve brand awareness and content discoverability through
           customizable links, supercharging audience engagement.
         </p>
+      </div>
+
+      <div>
+        <h3>Boost your links today</h3>
+
+        <button>Get Started</button>
       </div>
     </div>
   );
